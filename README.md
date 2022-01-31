@@ -25,4 +25,4 @@ app.use(brew);
 app.listen(PORT);
 ```
 
-Now if you receive a request with a body which contains a "brew_coffee" key, your server will return a response with status 418 and a message "I'm a teapot, no coffee here."
+Now if you receive a request with a body which contains a "brew_coffee" key which is not *false*, your server will return a response with status 418 and a message "I'm a teapot, no coffee here."
