@@ -1,0 +1,19 @@
+{
+  "name": "express-brew",
+  "version": "1.0.0",
+  "description": "Returns status 418 and sends a message if you try to brew coffee. You shall not do it. I'm a teapot BTW.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serpaef/express-brew.git"
+  },
+  "author": "serpaef <serpaef@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serpaef/express-brew/issues"
+  },
+  "homepage": "https://github.com/serpaef/express-brew#readme"
+}
